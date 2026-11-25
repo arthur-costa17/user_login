@@ -1,1 +1,0 @@
-CREATE TABLE user_data (username VARCHAR(255) PRIMARY KEY, password VARCHAR(255), last_login_deny TIMESTAMP)
